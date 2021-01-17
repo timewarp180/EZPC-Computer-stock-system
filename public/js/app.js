@@ -49928,20 +49928,7 @@
           [_vm._v("Password")]
         ),
         _vm._v(" "),
-        _c("div", { staticClass: "float-right" }, [
-          _c(
-            "a",
-            {
-              staticClass: "text-small",
-              attrs: { href: "auth-forgot-password.html" }
-            },
-            [
-              _vm._v(
-                "\n                                        Forgot Password?\n                                    "
-              )
-            ]
-          )
-        ])
+      
       ])
     },
     function() {
